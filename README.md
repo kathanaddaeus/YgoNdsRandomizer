@@ -5,6 +5,14 @@ The seed, along with the used settings, can be saved and later imported.
 
 It was created for WC2011 specifically, However, all games 2008 and up should work, due to their similar structure.
 
+### Important Notice!
+Since April of 2025, JavaFX (the UI framework of this app) is no longer officially provided with Java 8.
+
+What this means for you:
+* I'll have to fix / update the randomizer a lot more urgently now- which **I'll try to get too as soon as possible now**
+* Install a Java 8 version prior to those changes (You can find [previous versions here](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#JRE8u441), Runtime Environment 8u441 is the last one with JavaFX still)
+* Install Java 8 from another distributor that still packages JavaFX within
+
 ### **How to use:**
   Requires Java 8 to run.
   
